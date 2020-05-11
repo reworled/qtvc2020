@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Compass.qml</file>
+        <file>Controller.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BauerGauge.qml</file>
+        <file>TextSpeedo.qml</file>
+        <file>SuperSnowGaugesUnit.qml</file>
+        <file>OverlayIcon.qml</file>
+        <file>Controller.qml</file>
+        <file>FLFGauge.qml</file>
+    </qresource>
+</RCC>

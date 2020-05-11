@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>overlay.png</file>
+        <file>background.png</file>
+        <file>lines.png</file>
+        <file>desktop.png</file>
+        <file>coolant.png</file>
+        <file>gas.png</file>
+    </qresource>
+</RCC>
